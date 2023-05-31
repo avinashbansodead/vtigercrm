@@ -1,0 +1,6 @@
+input[@value='B']===B
+input[@type='submit']==B
+input[@type='text']==AB
+input[@value='A']===Aa
+input[@type='text'and @value='A']===A
+input[@value='B' or @type='submit']===Ba
